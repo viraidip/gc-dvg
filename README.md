@@ -39,6 +39,8 @@ Create and activate the conda environment:
 
 ```bash
 conda env create -f environment.yaml
+```
+```bash
 conda activate gc_dvg
 ```
 ## Environment
