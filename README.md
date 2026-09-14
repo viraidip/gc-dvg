@@ -54,8 +54,10 @@ though the results reported in the main manuscript were produced on Linux.
 
 ​```bash
 conda env create -f environment.yml
+```
+```bash
 conda activate gc_dvg
-​```
+```
 
 Then open and run the notebooks in order with Jupyter Notebook (01 through 04).
 
