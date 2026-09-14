@@ -43,6 +43,8 @@ conda env create -f environment.yaml
 ```bash
 conda activate gc_dvg
 ```
+Open and run the notebooks in order with Jupyter Notebook (01 through 04).
+
 ## Environment
 
 All analyses were run in Jupyter notebooks under Python 3.11 (conda environment
@@ -51,15 +53,6 @@ kernel 6.10.3).
 
 The environment file and notebooks also build and run on macOS (Intel),
 though the results reported in the main manuscript were produced on Linux.
-
-​```bash
-conda env create -f environment.yml
-```
-```bash
-conda activate gc_dvg
-```
-
-Then open and run the notebooks in order with Jupyter Notebook (01 through 04).
 
 ## Granger-causality analysis
 
